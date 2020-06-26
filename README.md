@@ -1,3 +1,12 @@
+# About this repository
+
+This repository contains a program in **React JS** that can save images using it's url in a **Firebase Data Base**
+and show the actual images from a certain category.
+
+To get the program work you will need to add your firebase config in **index.js**.
+
+![Program image](https://github.com/SakugaCoder/Firebase-ReactJS-ImageGallery/blob/master/src/preview.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
